@@ -112,7 +112,7 @@ button:hover {
 .checkbox:hover + .container,
 .checkbox:hover + .container::before,
 .checkbox:hover + .container::after {
-  background: rgb(105, 165, 26);
+  background: rgb(24, 206, 191);
   transition: all 0.3s ease;
 }
 
@@ -195,7 +195,7 @@ button:hover {
 
 .menu__item:nth-child(1) a {
   transform: rotate(0);
-  color: #d6492f;
+  color: #3d55df;
 }
 
 .menu__item:nth-child(2) a {
@@ -205,7 +205,7 @@ button:hover {
 
 .menu__item:nth-child(3) a {
   transform: rotate(-120deg);
-  color: #f80000c4;
+  color: #00f0f8c4;
 }
 
 .menu__item:nth-child(4) a {
