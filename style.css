@@ -25,7 +25,7 @@ body {
     text-align: center;
     padding: 20px;
     border-radius: 10px;
-    border: 3px solid greenyellow;
+    border: 3px solid rgb(14, 226, 216);
 }
 
 h1, .caixa-perguntas, .caixa-resultado {
@@ -224,7 +224,7 @@ footer .menu__item:nth-child(6) a {
 }
 
 h2{
-  color: #846ecd;
+  color: #482ba7;
 }
 h1{
   text-align: center;
